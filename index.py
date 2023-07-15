@@ -1,0 +1,2 @@
+A = "Praveen"
+print(A)
